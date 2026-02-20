@@ -14760,15 +14760,21 @@
     "timestamp": 1771563243
   },
   {
-    "raider": "boo0103. (1207499808802078752)",
-    "guild_name": "\ud835\udd53\ud835\udd60\ud835\udd60 \u02d7\u02cf\u02cb \u2605 \u02ce\u02ca\u02d7's server",
-    "members": 2,
-    "timestamp": 1771565870
-  },
-  {
     "raider": "wickstinks (1454002305677398131)",
     "guild_name": "Denxus",
     "members": 25,
     "timestamp": 1771567815
+  },
+  {
+    "raider": "wickstinks (1454002305677398131)",
+    "guild_name": "OFFICIAL | VKWN",
+    "members": 6,
+    "timestamp": 1771567895
+  },
+  {
+    "raider": "boo0103. (1207499808802078752)",
+    "guild_name": "\ud835\udd53\ud835\udd60\ud835\udd60 \u02d7\u02cf\u02cb \u2605 \u02ce\u02ca\u02d7's server",
+    "members": 2,
+    "timestamp": 1771565870
   }
 ]
