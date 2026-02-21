@@ -15822,6 +15822,12 @@
     "timestamp": 1771700305
   },
   {
+    "raider": ".__.aqua.__. (1379740035217363045)",
+    "guild_name": "Aqua's server",
+    "members": 3,
+    "timestamp": 1771705957
+  },
+  {
     "raider": "dahon2854 (876430491488780288)",
     "guild_name": "Dahon's server123123",
     "members": 2,
@@ -15862,5 +15868,11 @@
     "guild_name": "Zealous's server",
     "members": 2,
     "timestamp": 1771705017
+  },
+  {
+    "raider": ".__.aqua.__. (1379740035217363045)",
+    "guild_name": "Weok",
+    "members": 2,
+    "timestamp": 1771706663
   }
 ]
