@@ -15454,5 +15454,11 @@
     "guild_name": "test",
     "members": 2,
     "timestamp": 1771653602
+  },
+  {
+    "raider": "a_n_o_n_i_e_m1234 (1429523993567957125)",
+    "guild_name": "test123",
+    "members": 2,
+    "timestamp": 1771668666
   }
 ]
