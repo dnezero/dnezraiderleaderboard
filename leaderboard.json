@@ -16561,6 +16561,12 @@
   },
   {
     "raider": "hakunamatatatatatata (1437067796201738411)",
+    "guild_name": "Testt",
+    "members": 5,
+    "timestamp": 1771784269
+  },
+  {
+    "raider": "hakunamatatatatatata (1437067796201738411)",
     "guild_name": "\ud835\udc0d\ud835\udc04\ud835\udc12\ud835\udc0a\ud835\udc15\ud835\udc08\ud835\udc0a\ud835\udc00's server",
     "members": 4,
     "timestamp": 1771783841
@@ -16582,5 +16588,11 @@
     "guild_name": "ITaxPeople's server",
     "members": 2,
     "timestamp": 1771783937
+  },
+  {
+    "raider": "der_11september (1451651907121709268)",
+    "guild_name": "Server von zrelacross",
+    "members": 2,
+    "timestamp": 1771784182
   }
 ]
