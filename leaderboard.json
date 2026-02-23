@@ -16816,5 +16816,11 @@
     "guild_name": "blah",
     "members": 2,
     "timestamp": 1771801753
+  },
+  {
+    "raider": "dnezSecurity#2902",
+    "guild_name": "",
+    "members": null,
+    "timestamp": 1771806161
   }
 ]
